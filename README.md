@@ -76,8 +76,7 @@ MIT licensed.
 
 ## 🌐 Links
 
-- 🌐 Website: https://bigbug.ai  
-- 📊 Analytics Portal: https://portal.bigbug.ai  
+- 🌐 Website: https://bigbug.ai
 - 🐦 X / Twitter: https://x.com/BigBugAI  
 - 🤖 API: https://api.bigbug.ai  
 - ⚡ x402 AI Endpoint: https://x402.bigbug.ai/ask  
